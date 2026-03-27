@@ -40,8 +40,8 @@ Step 4: Print the final Infinity norm result.
 
 ## Program:
 ```
-# Register No:212225040249
-# Developed By:MOHAMMED HANEEF M
+# Register No:212225040386
+# Developed By:SARATHI M
 
 # 1-Norm of a Matrix
 
